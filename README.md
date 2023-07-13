@@ -17,7 +17,8 @@ Anything other than 1 is added to the total score of the player.
 If the current player hits the 1 face of the dice, its total score will be converted into a 0.
 
 ## Second project (Hangman game)
-You receive a random word to guess. The number of tries that you get is equal to the number of letters that the word has. If one or more letters repeat it is taken in consideration only once
+You receive a random word to guess. The number of tries that you get is equal to the number of letters that the word has. If one or more letters repeat it is taken in consideration only once.
+
 Example:
 ```
 onion -> number of lives = 3 (because 'o' and 'n') appear more than once
